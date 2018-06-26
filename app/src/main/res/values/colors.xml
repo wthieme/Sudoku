@@ -5,7 +5,7 @@
     <color name="colorAccent">#e0f2f1</color>
     <color name="colorTekst">#0489b1</color>
     <color name="colorBackground">#f5f5f5</color>
-    <color name="colorDroogDark">#d3c119</color>
+    <color name="colorButton">#cfd8dc</color>
     <color name="colorDroogStart">#ffca28</color>
     <color name="colorDroogEnd">#f0f4c3</color>
     <color name="colorNatStart">#82b1ff</color>
